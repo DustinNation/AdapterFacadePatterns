@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePattern\\AdapterFacadePattern\\AdapterPattern.csproj": {}
+    "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePatterns\\AdapterFacadePattern\\AdapterPattern\\AdapterPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePattern\\AdapterFacadePattern\\AdapterPattern.csproj": {
+    "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePatterns\\AdapterFacadePattern\\AdapterPattern\\AdapterPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePattern\\AdapterFacadePattern\\AdapterPattern.csproj",
+        "projectUniqueName": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePatterns\\AdapterFacadePattern\\AdapterPattern\\AdapterPattern.csproj",
         "projectName": "AdapterPattern",
-        "projectPath": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePattern\\AdapterFacadePattern\\AdapterPattern.csproj",
+        "projectPath": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePatterns\\AdapterFacadePattern\\AdapterPattern\\AdapterPattern.csproj",
         "packagesPath": "C:\\Users\\DustinNation\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePattern\\AdapterFacadePattern\\obj\\",
+        "outputPath": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePatterns\\AdapterFacadePattern\\AdapterPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DustinNation\\AppData\\Roaming\\NuGet\\NuGet.Config",
