@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePattern\\FacadePattern\\FacadePattern.csproj",
+      "projectUniqueName": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePatterns\\AdapterFacadePattern\\FacadePattern\\FacadePattern.csproj",
       "projectName": "FacadePattern",
-      "projectPath": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePattern\\FacadePattern\\FacadePattern.csproj",
+      "projectPath": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePatterns\\AdapterFacadePattern\\FacadePattern\\FacadePattern.csproj",
       "packagesPath": "C:\\Users\\DustinNation\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePattern\\FacadePattern\\obj\\",
+      "outputPath": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePatterns\\AdapterFacadePattern\\FacadePattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DustinNation\\AppData\\Roaming\\NuGet\\NuGet.Config",

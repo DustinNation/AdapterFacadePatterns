@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FacadePattern
-build_property.ProjectDir = C:\Users\DustinNation\source\repos\Head First Design Patterns\AdapterFacadePattern\FacadePattern\
+build_property.ProjectDir = C:\Users\DustinNation\source\repos\Head First Design Patterns\AdapterFacadePatterns\AdapterFacadePattern\FacadePattern\
